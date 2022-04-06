@@ -2,7 +2,7 @@
 - 👀 I’m interested in Engineering and Agronomy
 - 🌱 I’m currently studying Bioengineering and Agronomy and Data Science
 - 💞️ I’m looking to collaborate on the project for my "Teamworking on the Network" course
-- 📫 How to reach me WhatsApp: +34 630 073 369 or call: +1 515 441-4420
+- 📫 How to reach me mail: alvaroquintano@uoc.edu
 
 <!---
 alvaroquintano/alvaroquintano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
