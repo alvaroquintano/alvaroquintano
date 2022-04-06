@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alvaroquintano
 - 👀 I’m interested in Engineering and Agronomy
 - 🌱 I’m currently studying Bioengineering and Agronomy and Data Science
-- 💞️ I’m looking to collaborate on the project for my Teamworking on the Network Class
+- 💞️ I’m looking to collaborate on the project for my "Teamworking on the Network" course
 - 📫 How to reach me WhatsApp: +34 630 073 369 or call: +1 515 441-4420
 
 <!---
